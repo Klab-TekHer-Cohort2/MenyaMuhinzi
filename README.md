@@ -1,2 +1,1 @@
-# AI-Powered Agricultural 
-Learning Platform 
+# AI-Powered Agricultural Learning Platform 
